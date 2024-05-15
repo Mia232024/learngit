@@ -1,5 +1,3 @@
 alsdjf
 dsf
-a
-b
-c
+abc
